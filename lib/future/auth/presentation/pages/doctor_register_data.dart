@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, library_private_types_in_public_api
+// ignore_for_file: prefer_const_constructors, library_private_types_in_public_api, unused_field, depend_on_referenced_packages
 
 import 'dart:io';
 import 'package:flutter/material.dart';
